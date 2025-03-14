@@ -132,7 +132,7 @@ Email: ivan.petrov.a7b3c@gmx.com
 ## 👨‍💻 Автор
 
 **Ваше Имя**
-
+Wiranov
 ---
 
 <div align="center">
